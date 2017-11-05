@@ -2,8 +2,8 @@
 #include <string>
 
 /**
-Subnet Mask Calculator.
-@author Vladimir Kuprienko <vldmr.kuprienko@gmail.com>
+	Subnet Mask Calculator.
+	@author Vladimir Kuprienko <vldmr.kuprienko@gmail.com>
 */
 int main()
 {
@@ -30,8 +30,8 @@ int main()
 	};
 
 	std::cout << "----------------------------------------------------" << std::endl
-		<< "\tSubnet Mask Calculator" << std::endl
-		<< "(https://github.com/greeflas/subnet-mask-calculator)" << std::endl
+		<< "\tSubnet Mask Calculator" << std::endl << std::endl
+		<< " https://github.com/greeflas/subnet-mask-calculator " << std::endl
 		<< "----------------------------------------------------" << std::endl
 		<< std::endl;
 
